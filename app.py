@@ -2,9 +2,10 @@
 
 import asyncio
 import json
-import secrets
 import os
+import secrets
 import signal
+
 import websockets
 
 from connect4 import PLAYER1, PLAYER2, Connect4
