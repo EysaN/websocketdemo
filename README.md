@@ -4,4 +4,4 @@
 * run http server: `python -m http.server`
 * run websocket server: `python app.py`
 
-try it now at https://eysan.github.io/websocketdemo/
+try it now at https://eysan.github.io/websocketgame/
